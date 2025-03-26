@@ -1,0 +1,3 @@
+[submodule "vendor/awsome-module"]
+	path = vendor/awsome-module
+	url = https://github.com/Nidjoabi/awsome-module.git
